@@ -11,7 +11,7 @@ const StartScreen = () => {
       <h1 className={css.header_text}>MRI Viewer</h1>
       <div className={css.subheader}>
         <GithubLink width={25} height={25} />
-        <h3 className={css.subheader_text}>Open Source 2D/3D viewer developed by EPAM Systems. Supports DICOM, NIFTI, KTX, HDR.</h3>
+        <h3 className={css.subheader_text}>Supports DICOM, NIFTI, KTX, HDR.</h3>
       </div>
 
       <div className={css.container}>
